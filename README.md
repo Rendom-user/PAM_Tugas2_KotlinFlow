@@ -22,3 +22,7 @@ Dibangun di atas struktur Kotlin Multiplatform.
 3. Buka file `desktopApp/src/main/kotlin/com/example/tugas2newsfeedsimulator/ConsoleMain.kt`.
 4. Klik tombol **Run (Segitiga Hijau)** di sebelah kiri deklarasi `fun main()`.
 5. Untuk menjalankan test, buka `shared/src/commonTest/kotlin/com/example/tugas2newsfeedsimulator/NewsFeedSimulatorTest.kt` dan jalankan test-nya.
+
+## 📸 Hasil Test
+Berikut adalah hasil dari program saat dijalankan:
+![Hasil Test](hasil_test.png)
